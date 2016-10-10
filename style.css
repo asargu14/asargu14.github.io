@@ -1,0 +1,81 @@
+/*style.css*/
+div{
+	
+	margin: 5px;
+	padding: 5px;
+	
+}
+
+#content{
+	font-family: cursive;
+	color: white;
+	font-size: 29px;
+	margin: 5px;
+	
+}
+
+
+
+#footer #col1{
+	width: 15%;
+	display: inline-block;
+	color: white;
+	font-style: italic;
+}
+
+#footer #col2{
+	width: 30%;
+	display: inline;
+		color: white;
+	
+}
+
+#footer #col3{
+	width: 30%;
+	display: inline;
+		color: white;
+	
+}
+
+#container{
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+body {
+    background-image: url("me.jpg");
+    background-color: #cccccc;
+	 background-size: cover;
+    background-repeat: no-repeat;
+}
+p{
+	text-align: center;
+}
+a{
+	color: white;
+}
+
+}
