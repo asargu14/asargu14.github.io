@@ -77,5 +77,14 @@ p{
 a{
 	color: white;
 }
+footer {background: #000000;color:white;
+position: absolute;
+bottom:0;
 
+}
+
+#footer{
+	background: #000000;color:white;
+position: absolute;
+bottom:0;
 }
